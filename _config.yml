@@ -1,0 +1,19 @@
+title: my-repo-5
+description: content
+url: https://wtarr81.github.io
+baseurl: /my-repo-5
+timezone: Asia/Shanghai
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# 百度自动推送：在页面中嵌入 push.js
+baidu_push: true
