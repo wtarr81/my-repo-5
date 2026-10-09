@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wtarr81.github.io/my-repo-5/sitemap.xml
